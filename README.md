@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TuhinBiswas13
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... c programing 
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
